@@ -1,0 +1,26 @@
+[
+    {
+        "plate_number": "IND",
+        "confidence": 0.81,
+        "image_path": "static/outputs/images\\dc8f7e9c-793d-4de0-814f-c0a4bd0aa36b_out.jpg",
+        "timestamp": "2026-02-09 11:56:58"
+    },
+    {
+        "plate_number": "IND",
+        "confidence": 0.81,
+        "image_path": "static/outputs/images\\5d1473db-d113-456d-bebf-37b8ea3426f9_out.jpg",
+        "timestamp": "2026-02-09 13:02:36"
+    },
+    {
+        "plate_number": "MH20 EE 7602",
+        "confidence": 0.73,
+        "image_path": "static/outputs/images\\24db177a-2826-41b8-8fc1-a89748f8a73b_out.jpg",
+        "timestamp": "2026-02-09 13:03:49"
+    },
+    {
+        "plate_number": "MH20 EE 7602",
+        "confidence": 0.73,
+        "image_path": "static/outputs/images\\53695c40-d7ff-435e-915d-f4dfec1d088f_out.jpg",
+        "timestamp": "2026-02-09 13:05:42"
+    }
+]
